@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://plncworks.com.tr/sitemap.xml
